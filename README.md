@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Haseeb4772
-- 👀 I’m interested in Web Developer
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Bootstrap & PHP
 - 💞️ I’m looking to collaborate on WordPress
 - 📫 How to reach me by email
