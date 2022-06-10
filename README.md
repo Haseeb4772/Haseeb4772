@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Haseeb Tariq.
-- 👀 I’m junior Web Development @ Xtoders.
+- 👀 I’m Junior Web Development @ Xtoders.
 - 🌱 I’m currently learning PHP.
 - 💞️ I want to collaborate on WordPress for learning purpose.
 
